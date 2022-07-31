@@ -26,7 +26,6 @@
 ### 1️⃣ Acquisition and Preparation
 [Zillow](zillow.ipynb)
 
-[Imports](imports.py)
 ### 2️⃣ Scaling Numeric Data
 
 
