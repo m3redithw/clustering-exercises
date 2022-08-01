@@ -11,7 +11,7 @@
 
 
 ### 3️⃣ Exploration
-
+[Explore](explore_lesson.ipynb)
 
 ### 4️⃣ Evaluating Regression Models
 
