@@ -26,6 +26,11 @@
 ### 1️⃣ Acquisition and Preparation
 [Zillow](zillow.ipynb)
 
+[wrangle_zillow](wrangle_zillow.py)
+
+[Mall Customers](mall_customers.ipynb)
+
+[wrangle_mall](wrangle_mall.py)
 ### 2️⃣ Scaling Numeric Data
 
 
