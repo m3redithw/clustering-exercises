@@ -90,3 +90,18 @@ def handle_missing_values(df, prop_required_columns, prop_required_row):
     threshold = int(round(prop_required_row * len(df.columns), 0))
     df = df.dropna(axis=0, thresh=threshold) #0, or ‘index’ : Drop rows which contain missing values.
     return df
+
+def split(df):
+    '''
+    This function drops the customer_id column and then splits a dataframe into 
+    train, validate, and test in order to explore the data and to create and validate models. 
+    It takes in a dataframe and contains an integer for setting a seed for replication. 
+    Test is 20% of the original dataset. The remaining 80% of the dataset is 
+    divided between valiidate and train, with validate being .30*.80= 24% of 
+    the original dataset, and train being .70*.80= 56% of the original dataset. 
+    The function returns, train, validate and test dataframes. 
+    '''
+    train, test = train_test_split(df, test_size = .2, random_state=123)   
+    train, validate = train_test_split(train, test_size=.3, random_state=123)
+    
+    return train, validate, test
