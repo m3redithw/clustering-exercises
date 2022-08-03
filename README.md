@@ -11,7 +11,7 @@
 [Explore](explore_lesson.ipynb)
 
 ### 3️⃣ Clustering Models
-
+[Modeling](modeling_lession.ipynb)
 
 ### 4️⃣ 
 
@@ -30,13 +30,13 @@
 
 [Mall Customers](mall_customers.ipynb)
 
-[wrangle_mall](wrangle_mall.py)
+[Wrangle_mall](wrangle_mall.py)
 
 ### 2️⃣ Exploration
 [Explore](explore_zillow.ipynb)
 
 ### 3️⃣ Clustering Models
-
+[Modeling](modeling.ipynb)
 
 ### 4️⃣ 
 
