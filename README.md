@@ -33,5 +33,6 @@
 ### 3️⃣ Clustering Models
 [Modeling](modeling.ipynb)
 
-## Project
+***
+## 🟦 Project
 [How Accurate Is Your Zestimates?](https://github.com/m3redithw/zestimates-clustering-project)
