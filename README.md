@@ -13,24 +13,19 @@
 ### 3️⃣ Clustering Models
 [Modeling](modeling_lession.ipynb)
 
-### 4️⃣ 
-
-
-### 5️⃣ 
-
-
-### 6️⃣ 
+### 4️⃣ Using Clusters
+[Using_Clusters](using_clusters_lesson.ipynb)
 
 ***
 ## 🟦 Exercises
 ### 1️⃣ Acquisition and Preparation
 [Zillow](zillow.ipynb)
 
-[wrangle_zillow](wrangle_zillow.py)
+[Zillow Functions: wrangle_zillow](wrangle_zillow.py)
 
 [Mall Customers](mall_customers.ipynb)
 
-[Wrangle_mall](wrangle_mall.py)
+[Mall Functions: wrangle_mall](wrangle_mall.py)
 
 ### 2️⃣ Exploration
 [Explore](explore_zillow.ipynb)
@@ -38,10 +33,5 @@
 ### 3️⃣ Clustering Models
 [Modeling](modeling.ipynb)
 
-### 4️⃣ 
-
-
-### 5️⃣ 
-
-
-### 6️⃣ 
+## Project
+[How Accurate Is Your Zestimates?](https://github.com/m3redithw/zestimates-clustering-project)
