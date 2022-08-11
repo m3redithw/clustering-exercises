@@ -27,7 +27,7 @@
   [Explore](explore_lesson.ipynb)
 
 ## 3️⃣ Modeling
-◾ **K-Means**
+### ◾ K-Means
 
   **Algorithm**:
   - Start with our data: X.
@@ -40,16 +40,17 @@
   **Vocabulary**:
   - *centroid*: one of the cluster centers in a K-Means clustering
   - *inertia*: sum of the squared distances from each point to it's assigned centroid
-
+  
   **Further Reading:**
   
-  [Elbow Method](https://en.wikipedia.org/wiki/Elbow_method_(clustering))
+  - [Elbow Method](https://en.wikipedia.org/wiki/Elbow_method_(clustering))
   
-  [Determining the number of clusters in a data set](https://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set)
+  - [Determining the number of clusters in a data set](https://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set)
   
-  [scikit-learn User Guide: KMeans](https://scikit-learn.org/stable/modules/clustering.html#k-means)
+  - [scikit-learn User Guide: KMeans](https://scikit-learn.org/stable/modules/clustering.html#k-means)
   
-◾ **Density Based Clustering: DBSCAN**
+---
+### ◾ Density Based Clustering: DBSCAN
 
 - Stands for “Density Based Spatial Clustering of Applications with Noise”.
 - Does not require the user to set the number of clusters a priori.
