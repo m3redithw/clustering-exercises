@@ -1,4 +1,5 @@
-# Unsupervised Machine Learning - Clustering
+<img width="933" alt="title" src="https://user-images.githubusercontent.com/105242871/184061095-31e3bfc0-a2f1-44de-8b5e-417d51d5e444.png">
+
 ## 🟦 Class Demos & Resources
 
 ### 1️⃣ Acquisition and Preparation
