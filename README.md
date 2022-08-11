@@ -65,7 +65,7 @@
   [Modeling](modeling_lession.ipynb)
 
 ### 4️⃣ Using Clusters
-[Using_Clusters](using_clusters_lesson.ipynb)
+[Using Clusters](using_clusters_lesson.ipynb)
 
 ***
 ## 🟦 Exercises
