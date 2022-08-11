@@ -1,8 +1,8 @@
 <img width="933" alt="title" src="https://user-images.githubusercontent.com/105242871/184061095-31e3bfc0-a2f1-44de-8b5e-417d51d5e444.png">
 
-## 🟦 Class Demos & Resources
+# 🟦 Class Demos & Resources
 
-### 1️⃣ Acquisition and Preparation
+## 1️⃣ Acquisition and Preparation
 - Acquire a sample of data from SQL.
 - Identify null values, which nulls are 'deal-breakers', i.e. rows removed, which nulls should be represented by 0, and which should be replaced by a     value from other methods, such as mean.
 - Identify outliers and decide what to do with them, if anything (remove, keep as-is, replace).
@@ -13,7 +13,7 @@
   [Outliers: To Drop or Not to Drop](https://www.theanalysisfactor.com/outliers-to-drop-or-not-to-drop/)
 
   [Tidy Data](https://github.com/nickhould/tidy-data-python)
-### 2️⃣ Exploration
+## 2️⃣ Exploration
 - Can we see patterns, find signals in the data?
 
 - What features are driving the outcome?
@@ -26,7 +26,7 @@
   
   [Explore](explore_lesson.ipynb)
 
-### 3️⃣ Modeling
+## 3️⃣ Modeling
 ◾ **K-Means**
 
   **Algorithm**:
@@ -64,12 +64,17 @@
 
   [Modeling](modeling_lession.ipynb)
 
-### 4️⃣ Using Clusters
-[Using Clusters](using_clusters_lesson.ipynb)
+## 4️⃣ Using Clusters
+- Explore Your Clusters
+- Turn Your Clusters into Labels
+- Model Each Cluster Separately
+- Turn your Clusters into Features
+
+  [Using Clusters](using_clusters_lesson.ipynb)
 
 ***
-## 🟦 Exercises
-### 1️⃣ Acquisition and Preparation
+# 🟦 Exercises
+## 1️⃣ Acquisition and Preparation
 [Zillow](zillow.ipynb)
 
 [Zillow Functions: wrangle_zillow](wrangle_zillow.py)
@@ -78,13 +83,13 @@
 
 [Mall Functions: wrangle_mall](wrangle_mall.py)
 
-### 2️⃣ Exploration
+## 2️⃣ Exploration
 [Explore](explore_zillow.ipynb)
 
-### 3️⃣ Modeling
+## 3️⃣ Modeling
 [Modeling](modeling.ipynb)
 
 ***
-## 🟦 Project
+# 🟦 Project
 
 [How Accurate Is Your Zestimates?](https://github.com/m3redithw/zestimates-clustering-project)
